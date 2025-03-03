@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Ali  
+💻 Frontend Developer | Passionate about UI/UX & Web Design  
 
-<!--
-**ahmedsuriya124/ahmedsuriya124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Tech Stack  
+![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
 
-Here are some ideas to get you started:
+## 🔥 My Projects  
+- [E-commerce Website](https://github.com/AliCoder/ecommerce-project) 🛍️  
+- [Weather App](https://github.com/AliCoder/weather-app) 🌦️  
+- [Portfolio Website](https://github.com/AliCoder/portfolio) 💼  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AliCoder&show_icons=true&theme=radical)  
+
+📫 **Let's Connect:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
