@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Muhammad Ahmed  
-I am a Computer Engineering graduate (Class of 2024) with a passion for front-end development. I specialize in HTML, CSS, and JavaScript and am currently working on improving my skills to become a proficient web developer.
+I am a Computer Engineering graduate.I am a Backend Developer working mainly with .NET. I like building simple and efficient web applications that solve real problems.
+I enjoy working with OOP and try to keep my code clean and easy to understand while improving my backend development skills.
 
-- 🔭 I’m currently working on Blog Webiste
-- 🌱 I’m currently learning React js
+- 🌱 I’m currently learning Dot.Net 
 - 📫 How to reach me: https://ahmedsuriya.netlify.app
 
 ## 📫 Let's Connect:
@@ -10,4 +10,4 @@ I am a Computer Engineering graduate (Class of 2024) with a passion for front-en
 
 
 ## 🚀 Tech Stack  
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" width="50" height="50" hspace="10"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" width="50" height="50" hspace="10"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" width="50" height="50" hspace="10"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" width="50" height="50" hspace="10"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" width="50" height="50" hspace="10"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="50" height="50" hspace="10"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" width="50" height="50" hspace="10"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/firebase.png" width="50" height="50" hspace="10">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50" height="50" hspace="10"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" width="50" height="50" hspace="10"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" width="50" height="50" hspace="10"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" width="50" height="50" hspace="10"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" width="50" height="50" hspace="10"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" width="50" height="50" hspace="10"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="50" height="50" hspace="10"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" width="50" height="50" hspace="10"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/firebase.png" width="50" height="50" hspace="10">
